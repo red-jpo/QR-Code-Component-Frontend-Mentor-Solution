@@ -70,7 +70,7 @@ h2 {
 
 /* Set up QR code styles */
 .qrCode {
-    width: 100%;
+    width: 294px;
     /* Set the width of the QR code to 100% of the parent container */
     margin: auto;
     /* Center the QR code horizontally within its container */

@@ -62,18 +62,16 @@ h2 {
     /* Set the background color of the card to white */
     width: 300px;
     /* Set the width of the card to 300px */
-    padding: 3px;
-    /* Add a small amount of padding around the card */
     border-radius: 20px;
     /* Round the corners of the card */
 }
 
 /* Set up QR code styles */
 .qrCode {
-    width: 294px;
-    /* Set the width of the QR code to 294 pixels */
-    margin: 3px;
-    /* Center the QR code horizontally within its container */
+    width: 264px;
+    /* Set the width of the QR code to 264 pixels */
+    margin: 18px auto 0;
+    /* Center the QR code horizontally within its container and add a top margin of 18 pixels*/
     border-radius: 10px;
     /* Round the corners of the QR code */
 }

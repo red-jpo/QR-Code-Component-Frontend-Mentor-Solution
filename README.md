@@ -16,7 +16,7 @@ This project is a simple QR Code Component that can be used to direct users to a
 ## Overview
 
 ### Screenshot
-![](/Screenshot from 2023-03-16 19-01-51.png)
+![](./Screenshot2023-03-16.png)
 
 ### Links
 

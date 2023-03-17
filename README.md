@@ -14,9 +14,9 @@ This project is a simple QR Code Component that can be used to direct users to a
 + [Final Notes](#final-notes)
 
 ## Overview
----
+
 ### Screenshot
-![](/"Screenshot from 2023-03-16 19-01-51.png")
+![](/Screenshot from 2023-03-16 19-01-51.png)
 
 ### Links
 
@@ -24,7 +24,6 @@ This project is a simple QR Code Component that can be used to direct users to a
 - Live Site URL: [https://red-jpo.github.io/QR-Code-Component-Frontend-Mentor-Solution/](https://red-jpo.github.io/QR-Code-Component-Frontend-Mentor-Solution/)
 
 ## About this project
----
 
 ### Built with
 
@@ -42,7 +41,6 @@ During this practical challenge, I learned about the basic uses of flexbox. I al
 - [Chat Gpt](https://chat.openai.com/) - Very interesting and useful tool. It helped me with debugging, organizing my CSS file, and adding comments to my code.
 
 ## Final Notes
----
 
 This was my first project on my own, and my third total. It was challenging at first because I didn't have a tutorial to follow, but I got the hang of it eventually. 
 

@@ -62,9 +62,9 @@ h2 {
     /* Set the background color of the card to white */
     width: 300px;
     /* Set the width of the card to 300px */
-    padding: 1%;
+    padding: 3px;
     /* Add a small amount of padding around the card */
-    border-radius: 15px;
+    border-radius: 20px;
     /* Round the corners of the card */
 }
 

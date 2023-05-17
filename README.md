@@ -44,5 +44,5 @@ During this practical challenge, I learned about the basic uses of flexbox. I al
 
 This was my first project on my own, and my third total. It was challenging at first because I didn't have a tutorial to follow, but I got the hang of it eventually. 
 
-As a way of keeping track of my progress and to serve as a reference for future projects, I decided to comment my code thoroughly. I'm really pleased with the final result of the project - the layout looks great and it works seamlessly on different screen sizes. Overall, I'm proud of the skills I've gained and the progress I've made in my journey to becoming a proficient web developer.
+I'm really pleased with the final result of the project - the layout looks great and it works on different screen sizes. Overall, I'm proud of the skills I've gained and the progress I've made in my journey to becoming a proficient web developer.
 

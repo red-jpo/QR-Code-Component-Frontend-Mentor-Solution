@@ -20,8 +20,8 @@ This project is a simple QR Code Component that can be used to direct users to a
 
 ### Links
 
-- Solution URL: [https://github.com/red-jpo/QR-Code-Component-Frontend-Mentor-Solution](https://github.com/red-jpo/QR-Code-Component-Frontend-Mentor-Solution)
-- Live Site URL: [https://red-jpo.github.io/QR-Code-Component-Frontend-Mentor-Solution/](https://red-jpo.github.io/QR-Code-Component-Frontend-Mentor-Solution/)
+- [Solution URL](https://github.com/red-jpo/QR-Code-Component-Frontend-Mentor-Solution)
+- [Live Site URL](https://red-jpo.github.io/QR-Code-Component-Frontend-Mentor-Solution/)
 
 ## About this project
 

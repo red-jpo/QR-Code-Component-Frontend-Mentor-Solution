@@ -1,77 +1,55 @@
-/* Set up body styles */
 body {
-    display: flex;
-    /* Use flexbox to center the content horizontally and vertically */
-    align-items: center;
-    justify-content: center;
-    background-color: hsl(212, 45%, 89%);
-    /* Set a light gray background color */
-    font-family: 'Outfit', sans-serif;
-    /* Use the 'Outfit' font family for all text in the body */
-    font-size: 15px;
-    /* Set the default font size to 15px */
-    height: 100vh;
-    /* Set the height of the body to 100% of the viewport height */
-    width: 100vw;
-    /* Set the width of the body to 100% of the viewport width */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit", sans-serif;
+  font-size: 15px;
+  height: 100vh;
+  width: 100vw;
 }
 
-/* Set up div styles */
 div {
-    display: flex;
-    /* Use flexbox to center the content horizontally and vertically */
-    flex-direction: column;
-    /* Stack all child elements of the div vertically */
-    justify-content: center;
-    /* Center the child elements vertically within the div */
-    align-items: center;
-    /* Center the child elements horizontally within the div */
-    text-align: center;
-    /* Center the text within the div */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 
-/* Set up paragraph styles */
 p {
-    color: hsl(220, 15%, 55%);
-    /* Set the text color to a grayish-blue */
-    font-weight: 400;
-    /* Set the font weight to normal */
-    width: 85%;
-    /* Set the width of the paragraph to 85% of the parent container */
-    text-align: center;
-    /* Center the text within the paragraph */
-    margin-top: 0;
-    /* Remove any top margin to prevent extra space above the paragraph */
+  color: hsl(220, 15%, 55%);
+  font-weight: 400;
+  width: 85%;
+  text-align: center;
+  margin-top: 0;
 }
 
-/* Set up h2 styles */
-h2 {
-    color: hsl(218, 44%, 22%);
-    /* Set the text color to a dark blue */
-    font-weight: 700;
-    /* Set the font weight to bold */
-    width: 90%;
-    /* Set the width of the h2 to 90% of the parent container */
-    text-align: center;
-    /* Center the text within the h2 */
+h1 {
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+  width: 90%;
+  text-align: center;
 }
 
-/* Set up card styles */
 .card {
-    background-color: hsl(0, 0%, 100%);
-    /* Set the background color of the card to white */
-    width: 300px;
-    /* Set the width of the card to 300px */
-    border-radius: 20px;
-    /* Round the corners of the card */
+  background-color: hsl(0, 0%, 100%);
+  width: 300px;
+  border-radius: 20px;
 }
 
-/* Set up QR code styles */
 .qrCode {
-    width: 264px;
-    /* Set the width of the QR code to 264 pixels */
-    margin: 18px auto 0;
-    /* Center the QR code horizontally within its container and add a top margin of 18 pixels*/
-    border-radius: 10px;
-    /* Round the corners of the QR code */
+  width: 264px;
+  margin: 18px auto 0;
+  border-radius: 10px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+}
+a {
+  text-decoration: none;
+  color: hsl(218, 44%, 22%);
 }
